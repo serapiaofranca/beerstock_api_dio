@@ -1,7 +1,9 @@
 <h2>Digital Innovation: Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 <h3>BootCamp DIO em parceria com a GFT - Java fullstack 2</h3>
 
-Treinamento com objetivo de desnvolver testes unitários em uma API REST para o gerenciamento de estoques de cerveja, conceitos e vantagens de criar testes unitários com JUnit e Mockito. Desenvolver funcionalidades da nossa API através da prática do TDD.
+Treinamento com objetivo de desenvolver testes unitários em uma API REST para o gerenciamento de estoques de cerveja. 
+Conceitos e vantagens de criar testes unitários com JUnit e Mockito. 
+Desenvolver funcionalidades da nossa API através da prática do TDD.
 
 Tópicos abordados:
 
