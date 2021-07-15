@@ -7,12 +7,12 @@ Desenvolver funcionalidades da nossa API através da prática do TDD.
 
 Tópicos abordados:
 
-* Baixar um projeto através do Git para desenolver nossos testes unitários. 
-* Apresentação conceitual sobre testes: a pirâmide dos tipos de testes, e também a importância de cada tipo de teste durante o ciclo de desenvolvimento.
-* Foco nos testes unitários: mostrar o porque é importante o desenvolvimento destes tipos de testes como parte do ciclo de desenvolvimento de software.
-* Principais frameworks para testes unitários em Java: JUnit, Mockito e Hamcrest. 
-* Desenvolvimento de testes unitários para validação de funcionalides básicas: criação, listagem, consulta por nome e exclusão de cervejas.
-* TDD: apresentação e exemplo prático em 2 funcionaliades importantes: incremento e decremento do número de cervejas no estoque.
+* Baixar um projeto através do Git para desenvolver nossos testes unitários. 
+* Apresentação conceitual sobre testes: a pirâmide dos tipos de testes, importância de cada tipo de teste durante o ciclo de desenvolvimento.
+* Foco nos testes unitários: importância do desenvolvimento de testes como parte do ciclo de desenvolvimento de software.
+* Frameworks para testes unitários em Java: JUnit, Mockito e Hamcrest. 
+* Desenvolvimento de testes unitários para validação de funcionalides básicas: criação, listagem, consulta por nome e exclusão.
+* TDD: apresentação e exemplo prático em 2 funcionaliades importantes: incremento e decremento no estoque.
 
 Comando para executar o projeto no terminal:
 
@@ -32,15 +32,15 @@ Após executar, abrir o seguinte endereço e visualizar a execução do projeto:
 http://localhost:8080/api/v1/beers
 ```
 
-São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:
+Pré-requisitos para a execução do projeto:
 
 * Java 11 ou versões superiores.
 * Maven 3.6.3 ou versões superiores.
 * Intellj IDEA Community Edition ou sua IDE favorita.
 * Controle de versão GIT.
-* Muita vontade de aprender e compartilhar conhecimento :)
+* ... vontade de aprender e compartilhar conhecimento :)
 
-Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
+Links sobre tópicos abordados:
 
 * [SDKMan! para gerenciamento e instalação do Java e Maven](https://sdkman.io/)
 * [Referência do Intellij IDEA Community, para download](https://www.jetbrains.com/idea/download)
